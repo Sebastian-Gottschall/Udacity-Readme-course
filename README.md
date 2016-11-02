@@ -9,8 +9,23 @@ so here you can write any important things in the project you do!
 ## some useful links to this topic
 
 [udacity free course how to create a correct Readme](https://de.udacity.com/course/writing-readmes--ud777/)
+
 [github cheatsheet to markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+
 [github howto for markdown](https://help.github.com/categories/writing-on-github/)
+
 [Licensing in Readme](http://choosealicense.com/)
 
-# Lets getting started, here is the readme of my readme project
+# Lets getting started, here is the readme of this project
+
+## Contribution
+
+Do you have some ideas to make this readme more usable, or some things to add?
+fork it or make some pull requests!
+
+## Install
+
+create a new or copy and modify this file in your root folder of your project
+
+## License
+This Udacity-Readme-course project is under [MIT License](https://opensource.org/licenses/MIT) !
