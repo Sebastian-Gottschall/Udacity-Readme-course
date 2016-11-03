@@ -34,7 +34,9 @@ fork it or make some pull requests!
 * dependency 2: 
 * dependency 3: 
 
-#### dependency for optional addons
+##### *dependency for optional addons*
+
+Some addons have some special dependencies!
 
 | addon | dependency | version |
 | --- | --- | --- |
@@ -62,6 +64,8 @@ This Udacity-Readme-course project is under [MIT License](https://opensource.org
 
 ## Changelog
 
-| version 0.3 | ... |
-| version 0.2 | add database connection in doctrine |
-| version 0.1 | configuration of the project |
+| Version | What changed | important to update|
+| --- | --- | --- |
+| version 0.3 | ... | x |
+| version 0.2 | add database connection in doctrine | - |
+| version 0.1 | configuration of the project | x |
