@@ -35,10 +35,12 @@ fork it or make some pull requests!
 * dependency 3: 
 
 #### dependency for optional addons
-|*addon*|*dependency*|*version*|
-|addon1|xyz|1.8|
-|addon2|abc|0.7|
-|addon3|def|2.2|
+
+| addon | dependency | version |
+| --- | --- | --- |
+| addon1 | xyz | 1.8 |
+| addon2 | abc | 0.7 |
+| addon3 | def | 2.2 |
 
 ## Includes
 
@@ -60,6 +62,6 @@ This Udacity-Readme-course project is under [MIT License](https://opensource.org
 
 ## Changelog
 
-|version 0.3|...|
-|version 0.2|add database connection in doctrine|
-|version 0.1|configuration of the project|
+| version 0.3 | ... |
+| version 0.2 | add database connection in doctrine |
+| version 0.1 | configuration of the project |
