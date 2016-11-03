@@ -57,3 +57,9 @@ Create a new or copy and modify this file in your root folder of your project
 
 ## License
 This Udacity-Readme-course project is under [MIT License](https://opensource.org/licenses/MIT) !
+
+## Changelog
+
+|version 0.3|...|
+|version 0.2|add database connection in doctrine|
+|version 0.1|configuration of the project|
