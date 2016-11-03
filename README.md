@@ -20,13 +20,39 @@ So here you can write any important things in the project you do!
 
 # Lets getting started, here is the readme of this project
 
+little description of the project for the person who want use it. Describe it as detailed as possible
+but use sub headlines to categorize the important things
+
 ## Contribution
 
 Do you have some ideas to make this readme more usable, or some things to add?
 fork it or make some pull requests!
 
-## Install
+## Dependencies
 
+* dependency 1: may be there are some things to be installed before your app can be used
+* dependency 2: 
+* dependency 3: 
+
+#### dependency for optional addons
+|*addon*|*dependency*|*version*|
+|addon1|xyz|1.8|
+|addon2|abc|0.7|
+|addon3|def|2.2|
+
+## Includes
+
+Do your project have some includes of other projects? yes? then write them here
+
+## Features
+
+this project add the following functions to the base app:
+* new function a:	little description
+* new function b:	write bit about this feature so a human can imagine what you mean
+
+## Installation
+
+Here you should write some informations about installing your project.
 Create a new or copy and modify this file in your root folder of your project
 
 ## License
