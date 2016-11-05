@@ -59,6 +59,19 @@ this project add the following functions to the base app:
 Here you should write some informations about installing your project.
 Create a new or copy and modify this file in your root folder of your project
 
+## Some console commands to the project
+
+| what | description | code |
+| --- | --- | --- |
+| who am i | email | `git config --global user.email sam@example.com` |
+| who am i | name | `git config --global user.name "Sam Smith"` |
+| new local repo | init | `git init` |
+| checkout | create a working copy | `git clone /path/to/repository` |
+| add | add files to repo for commit | `git add <filename>` or `git add *` |
+| commit | commit added files to repo with message | `git commit -m "Commit message"` |
+| push | push one or more commits to repo | `git push origin master` |
+
+
 ## License
 This Udacity-Readme-course project is under [MIT License](https://opensource.org/licenses/MIT) !
 
